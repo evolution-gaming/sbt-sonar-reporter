@@ -1,5 +1,5 @@
 package com.evolutiongaming.sbt.sonar
 
-class SonarreporterTest {
+class SonarReporterSpec {
   // write tests with your preferred framework
 }

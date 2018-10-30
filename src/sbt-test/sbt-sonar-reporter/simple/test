@@ -1,0 +1,3 @@
+# check if report gets created
+> test
+$ exists target/sonar-reports/generic.xml
