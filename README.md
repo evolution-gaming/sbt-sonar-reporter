@@ -1,6 +1,16 @@
 # sbt-sonar-reporter
 
-Create generic Sonar XML test report
+Creates generic Sonar XML test report using standard sbt test listener.
+
+See the following for more details on generic XML report:
+https://docs.sonarqube.org/display/SONAR/Generic+Test+Data
+
+This plugin is only actual while the following issue is not closed:
+https://github.com/mwz/sonar-scala/issues/32
+
+See the following class for more details:
+https://github.com/sbt/sbt/blob/develop/testing/src/main/scala/sbt/TestReportListener.scala
+
 
 ## Usage
 
